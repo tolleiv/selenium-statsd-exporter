@@ -1,0 +1,1 @@
+* * * * * /etc/periodic/1min/job >> /var/log/cron.log 2>&1
